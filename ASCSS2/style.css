@@ -1,0 +1,12 @@
+@font-face {
+    font-family:roboto ;
+    src: url(/font/Roboto_SemiCondensed-Medium.ttf);
+}
+input{border-radius: 15px;
+    width: 500px;
+    height: 30px;
+
+}
+span{ font-weight: bold;
+font-family: roboto}
+span.s1{ color: rgb(145, 152, 158);}

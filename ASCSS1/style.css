@@ -1,0 +1,60 @@
+
+@font-face {
+    font-family: forpara1;
+    src: url(font/Savate-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: forpara2;
+    src: url(font/DancingScript-Bold.ttf);
+}
+
+@font-face {
+    font-family: forpara3;
+    src: url(font/LobsterTwo-Italic.ttf);
+}
+
+body {
+    background-color: #ceaa7e;
+}
+
+h1 {
+    color: #0e06019a;
+    text-decoration: underline;
+}
+
+p.p1 {
+    background-color: #82b469;
+    border-style: solid;
+    color: black;
+    text-align: center;
+    font-family: forpara1;
+    height: 95px;
+    width: auto;
+    
+}
+
+p.p2 {
+    background-color: #05a379;
+    border-style:dashed;
+    color: black;
+    text-align: center;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bolder;
+    word-spacing: 5px;
+   
+}
+
+p.p3 {
+    background-color: #a56585;
+    border-style :dotted;
+    color: rgb(8, 7, 7);
+    text-align: center;
+    font-family: forpara3;
+    height: 95px;
+    width: auto;
+    word-spacing: 7px;
+    
+}

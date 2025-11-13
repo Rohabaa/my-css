@@ -1,0 +1,75 @@
+@font-face {
+    font-family: roboto;
+    src: url(/font/GravitasOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: dancing;
+    src: url(/font/DancingScript-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: lobster;
+    src: url(/font/LobsterTwo-BoldItalic.ttf);
+}
+
+body {
+    background-color: hsl(170, 21%, 58%);
+}
+
+h1 {
+    color: rgb(1, 17, 8);
+    /* background-color: bisque; */
+
+    /* font-size: x-large; */
+    /* border: 5px solid black; */
+    font-family: roboto;
+    text-align: center;
+    padding: 50px;
+    text-shadow: 7px 7px 10px grey;
+}
+
+.p1 {
+    border: 5px solid black;
+    height: 150px;
+    width: 250px;
+    padding: 20px;
+    color: rgb(8, 124, 14);
+    display: inline-block;
+    margin: 0px 0px 0px 70px;
+    background-color: rgb(218, 214, 243);
+    box-shadow: 20px 20px 50px 40px rgb(155, 152, 147);
+    width: 15%;
+
+
+}
+
+.p2 {
+    border: 5px solid black;
+    height: 150px;
+    width: 250px;
+    padding: 20px;
+    color: rgb(115, 8, 124);
+    display: inline-block;
+    margin: 0px 5px 0px 170px;
+    font-family: lobster;
+    background-color: rgb(235, 204, 238);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+       width: 15%;
+
+}
+
+.p3 {
+    border: 5px dotted black;
+    height: 150px;
+    width: 250px;
+    padding: 20px;
+    color: rgb(158, 96, 16);
+    display: inline-block;
+    margin: 0px 5px 0px 200px;
+    font-family: lobster;
+    /* border-width: 10px; */
+    background-color: rgb(151, 245, 245);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    width: 15%;
+}

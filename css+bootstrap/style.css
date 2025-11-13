@@ -1,0 +1,137 @@
+ @media screen (max-width 425px) 
+.mynav {
+    justify-content: end;
+    
+}
+
+.myd1 {
+    background-color: #fff;
+  width: 1440px;
+height: 174px;
+angle: 0 deg;
+opacity: 1;
+
+}
+
+.mya1 {
+    color: #000000;   
+}
+
+
+
+.mybut1 {
+    background: #75BF7A;
+    color: aliceblue;
+    width: 182px;
+height: 50px;
+top: 87px;
+left: 1178px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5.95px;
+border: none;
+
+}
+.h1{
+    width: 557px;
+height:198px ;
+top: 337px;
+left: 80px;
+angle: 0 deg;
+opacity: 1;
+font-family: Gilroy;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 60.73px;
+leading-trim: NONE;
+line-height: 65.91px;
+letter-spacing: 0%;
+
+}
+.p1{
+   
+    width: 550px;
+height: 120px;
+top: 562px;
+left: 80px;
+angle: 0 deg;
+opacity: 1;
+font-family: Gilroy;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+}
+.mybut2{
+    width: 260px;
+height: 66.77316284179688px;
+top: 744px;
+left: 80px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5px;
+background-color: #000000;
+color: #fff;
+}
+.mybut3{
+        width: 260px;
+height: 66.77316284179688px;
+top: 744px;
+left: 80px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5px;
+background-color: #000000;
+color: #fff;
+}
+.mydiv2{
+
+}
+form{
+    justify-content: end;
+}
+.myinput{
+    width: 499px;
+height: 67px;
+top: 947px;
+left: 520px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 4.39px;
+background-color: #fff;
+}
+.mybut4{
+    width: 260px;
+height: 67px;
+top: 947px;
+left: 1030px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 4.39px;
+background-color: #000000;
+color: #fff;
+
+}
+.myform{
+      flex-direction: row;
+}
+   
+
+.mydiv3{
+    width: 1100px;
+height: 166px;
+top: 897px;
+left: 80px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 10px;
+background: #75BF7A;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between; /* logo on left, links on right */
+  align-items: center;
+
+
+}

@@ -1,0 +1,710 @@
+.container1 {
+    background-color: #000000;
+    overflow-x: hidden;
+}
+
+.myimg1 {
+    width: 188px;
+    height: 48px;
+    opacity: 1;
+}
+
+.mynav1 {
+    margin-right: 100px;
+}
+
+.mynav {
+    margin-left: 100px;
+}
+
+.link {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+}
+
+.myimg2 {
+    margin-top: 40px;
+    margin-left: 300px;
+    position: relative;
+}
+
+/* 1sthead */
+.firsthead {
+    width: 339px;
+    height: 152px;
+    opacity: 1;
+    top: 264px;
+    left: 752px;
+    font-weight: 650;
+    font-style: Bold;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: 0px;
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 50px;
+    background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+    /* fallback */
+}
+
+/* para1 */
+.para1 {
+    text-align: left;
+    margin-left: 50px;
+    width: 405px;
+    height: 84;
+    opacity: 1;
+    top: 448px;
+    left: 752px;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.myimg3 {
+    width: 329.9999694824219px;
+    height: 48px;
+    opacity: 1;
+    top: 580px;
+    left: 752px;
+    gap: 24px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.myimg4 {
+    width: 85.00000195399483;
+height: 74.00000170112492;
+top: 278.11px;
+left: 302.82px;
+opacity: 1;
+border-top-left-radius: 54.6px;
+border-top-right-radius: 54.6px;
+border-bottom-right-radius: 7.28px;
+border-bottom-left-radius: 54.6px;
+position: absolute;
+left: 544px;
+top: 204px;
+}
+.myimg44{
+    position: absolute;
+top: 470px;
+left: 801px;
+}
+.myimg55{
+position: absolute;
+left: 844px;
+top: 204px;
+}
+.gradient{
+    position: absolute;
+    z-index: 0;
+    left: 40px;
+    top: 10px;
+    height: 900px;
+}
+
+.divv2 {
+    width: 1200px;
+    height: 220px;
+    top: 874px;
+    left: 120px;
+    opacity: 1;
+    border-radius: 20px;
+    border-width: 1px;
+    background: #34213480;
+    border: 1px solid;
+    border-image-source: linear-gradient(92.71deg, rgba(255, 255, 255, 0.18) 0%, rgba(255, 255, 255, 0.17) 100%);
+    margin-top: 90px;
+    margin: 200px, 200px;
+
+}
+
+.para2 {
+    color: #DBDBDB;
+    margin-left: 10px;
+
+}
+
+.para3 {
+    color: #DBDBDB;
+    margin-left: 10px;
+}
+
+.head2 {
+    width: 308px;
+    height: 56px;
+    top: 50px;
+    left: 63px;
+    opacity: 1;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 50px;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 40px;
+    background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+    /* fallback */
+}
+
+.myimg5 {
+    width: 80px;
+    height: 80px;
+    top: 50px;
+    left: 30px;
+    border-radius: 20px;
+    opacity: 1;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.mydivv {
+    width: 1200px;
+    height: 555px;
+    top: 1367px;
+    left: 120px;
+    border-radius: 36px;
+    opacity: 1;
+    margin-left: 50px;
+    margin-top: 200px;
+
+}
+
+.mycard {
+    width: 1200px;
+    height: 400px;
+    top: 1522px;
+    left: 120px;
+    opacity: 1;
+    padding: 25px;
+    margin: 20px, 20px;
+    border-radius: 40px;
+
+}
+
+.card2 {
+    background-color: #34213480;
+    opacity: o.2
+}
+
+.card-title {
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.card-text {
+    color: #DBDBDB;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.bighead {
+    width: 909;
+    height: 64;
+    top: 1367px;
+    left: 266px;
+    opacity: 1;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 0px;
+    text-align: center;
+    background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+    /* fallback */
+}
+.bighead2{
+    width: 909px;
+height: 64px;
+top: 2129px;
+left: 266px;
+opacity: 1;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+    /* fallback */
+    margin-left: 200px;
+}
+
+.innerdiv{
+    margin-top:  150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.myimg6{
+    width: 600px;
+height: 460px;
+opacity: 1;
+border-radius: 36px;
+border-width: 1px;
+margin-left: 70px;
+
+}
+.myimg7{
+    width: 600px;
+height: 460px;
+opacity: 1;
+border-radius: 36px;
+border-width: 1px;
+margin-top: 100px;
+padding-right: 30px;
+margin-right: 80px;
+}
+.myimg8{
+    width: 600px;
+height: 460px;
+opacity: 1;
+border-radius: 36px;
+border-width: 1px;
+margin-top: 80px;
+
+}
+.daba{
+    width: 472px;
+height: 168px;
+opacity: 1;
+gap: 40px;
+margin-left: 100px;
+}
+.daba1{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.daba2{
+    margin-top: 90px;
+        margin-left: 40px;
+
+}
+.smallhead{
+    width: 472px;
+height: 44px;
+opacity: 1;
+font-weight: 600;
+font-style: Semibold;
+font-size: 38px;
+line-height: 44px;
+letter-spacing: 0px;
+text-transform: capitalize;
+color: #ffffff;
+}
+.smallpara{
+    font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+width: 472px;
+height: 84px;
+opacity: 1;
+color: #DBDBDB;
+    text-align: left;
+margin-left: 20px;
+margin-top: 50px;
+}
+.fstbut{
+width: 136px;
+height: 40px;
+opacity: 1;
+gap: 10px;
+border-radius: 36px;
+padding-top: 6px;
+padding-right: 16px;
+padding-bottom: 6px;
+padding-left: 16px;
+background: #ece2ec66;
+border: none;
+font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 2px;
+margin-top: 30px;
+
+}
+.fst1{
+    width: 69px;
+height: 40px;
+opacity: 1;
+gap: 10px;
+border-radius: 42px;
+padding-top: 6px;
+padding-right: 16px;
+padding-bottom: 6px;
+padding-left: 16px;
+background: #ece2ec66;
+border: none;
+letter-spacing: 1.6px;
+padding-left: 16px;
+background: #ece2ec66;
+font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+
+
+}
+.fst2{
+    width: 80px;
+height: 40px;
+opacity: 1;
+gap: 10px;
+border-radius: 42px;
+padding-top: 6px;
+padding-right: 16px;
+padding-bottom: 6px;
+padding-left: 16px;
+background: #ece2ec66;
+font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+}
+.span1{
+    margin-right: 200px;
+}
+.head3{
+   text-align: left; 
+   margin-left: 130px;
+   width: 470px;
+height: 256px;
+opacity: 1;
+top: 149px;
+gap: 48px;
+width: 470;
+height: 256;
+opacity: 1;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 0px;
+text-transform: capitalize;
+ background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+    /* fallback */
+    margin-top: 120px;
+}
+.bigcolo{
+    margin-top: 90px;
+}
+.myimg9{
+    width: 600px;
+height: 110px;
+opacity: 1;
+top: -412px;
+border-bottom-left-radius: 30px;
+border-width: 1px;
+margin-right: 100px;
+}
+.baradaba{
+    width: 600px;
+height: 497px;
+opacity: 0.9;
+border-radius: 36px;
+border-width: 1px;
+margin-top: 40px;
+background: #34213480;
+ position: relative;
+
+}
+.para4{
+    text-align: left;
+   font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+color: #DBDBDB;
+margin-top: 40px;
+margin-left: 30px;
+}
+.myimg10{
+    margin-right: 450px;
+    margin-top: 30px;
+}
+.myimg11{
+  position: absolute;
+bottom: 10px;
+left: 10px;
+margin-left: 20px;
+}
+
+.user-row {
+  display: flex;           /* image + text ek line me */
+  align-items: center;     /* vertically center kare */
+  gap: 10px;               /* image aur text ke beech space */
+}
+.user-info {
+  display: flex;
+  flex-direction: column; /* Name upar, role neeche */
+   display: flex;
+  align-items: center; /* Image aur text ek line me center ho jaye */
+  gap: 10px;
+   position: absolute;
+bottom: 10px;   
+display: flex;
+  flex-direction: column;  /* name upar, role neeche */
+  line-height: 1.2;
+}
+
+.user-name {
+  font-size: 14px;
+  width: 140.00000000000213px;
+height: 20.000000000000306px;
+opacity: 1;
+font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0px;
+color: #ffffff;
+margin-left: 100px;
+margin-bottom: 10px;
+
+
+}
+
+.user-role {
+  font-size: 12px;
+  font-family: Poppins;
+font-weight: 400;
+font-style: Italic;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0px;
+color:  #DBDBDB;
+;
+margin-left: 100px;
+margin-bottom: 10px;
+}
+.myimg12{
+      margin-right: 450px;
+    margin-top: 20px;
+}
+.para5{
+    text-align: left;
+   font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+color: #DBDBDB;
+margin-top: 10px;
+margin-left: 30px;
+
+}
+.baradaba1{
+    width: 600px;
+height: 140px;
+opacity: 0.9;
+border-radius: 36px;
+border-width: 1px;
+margin-top: 40px;
+background: #34213480;
+ border-radius: 36px 36px 0 0;
+}.verybighead{
+    width: 849px;
+height: 334.9565124511719px;
+opacity: 1;
+top: 5193px;
+left: 296px;
+margin-top: 170px;
+margin-left: 240px;
+}
+.heaad{
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 0px;
+text-align: center;
+text-transform: capitalize;
+background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+}
+.myimg13{
+    margin-top: 140px;
+   margin-left: 260px;
+}
+.head4{
+    font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 0px;
+text-align: center;
+text-transform: capitalize;
+background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    /* Chrome, Safari ke liye */
+    -webkit-text-fill-color: transparent;
+    /* text ko transparent banata hai */
+    background-clip: text;
+    /* Firefox ke liye */
+    color: transparent;
+
+}
+.baradaba3{
+    margin-top: 160px;
+}
+.chotadaba{
+    width: 1200px;
+height: 345px;
+    /* top: 84px; */
+opacity: 1;
+border-radius: 23px;
+border-width: 1px;
+background: #34213480;
+margin-left: 50px;
+
+}
+.chotadaba1{
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.myimg14{
+    padding: 10px;
+    margin: 20px;
+    margin-top: 70px;
+}
+.myimg15{
+    padding: 10px;
+    margin: 20px;
+    margin-top: 0px;
+}
+.chotadaba2{
+    margin-left: 40px;
+}
+.para6{
+    margin-left: 337px;
+    margin-top: 200px;
+    color: #bbb6b6;
+font-weight: 400;
+font-style: Medium;
+font-size: 15px;
+line-height: 64px;
+letter-spacing: 0px;
+text-align: center;
+text-transform: capitalize;
+}
+.baradaba4{
+    width: 1310px;
+height: 354px;
+top: 6258px;
+opacity: 1;
+border-width: 1px;
+background: #34213480;
+margin-top: 80px;
+}
+.navo{
+    margin-top: 30px;
+}
+.mynav2{
+    margin-right: 60px;
+}
+.para7{
+     text-align: left;
+   font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+color: #DBDBDB;
+margin-top: 60px;
+margin-left: 80px;
+}
+.tool{
+    margin-top: 35px;
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+}
+.para8{
+     text-align: left;
+   font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+color: #DBDBDB;
+margin-top: 60px;
+margin-left: 80px;
+}
+.para9{
+     text-align: center;
+   font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0px;
+color: #DBDBDB;
+margin-top: 130px;
+margin-left: 30px;
+margin-bottom: 20px;
+display: flex;
+    justify-content: end;
+    margin-right: 100px;
+}
