@@ -17,6 +17,7 @@
    border-radius: 5px;
    width: 133.25px;
     color: #fff9f9;
+    height: 50px;
 }
 .nav-link{
     color: black;
@@ -211,7 +212,7 @@ border-radius: none;
     margin-top: 20px;
     margin-bottom: 10px;
    }
-@media (max-width: 990px) {
+/* @media (max-width: 990px) {
   .mycont {
     flex-direction: column;
     align-items: center;
@@ -253,4 +254,81 @@ border-radius: none;
   .label {
     font-size: 13px;
   }
+  
+}
+
+ */
+@media (max-width: 1100px) {
+  .mycont {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    gap: 20px;
+  }
+
+  .left, .right {
+    width: 100%;
+    text-align: center;
+  }
+  .stats{
+    width: auto;
+    margin-left: -80px;
+  }
+  *{
+    box-sizing: revert;
+  }
+  .btn1{
+    display: flex;
+    align-items: start;
+  }
+  .col{
+    margin-top: 20px;
+  }
+  /* .imgmedia{
+    padding-left: 88px
+  } */
+ 
+}
+@media (max-width: 834.67px){
+  /* * {
+    box-sizing: border-box;
+  } */
+  .btn3{
+    margin-left: 0px;
+   
+  }
+  .bottom{
+    display: flex;
+   justify-content: center;
+  }
+  .hood2{
+    padding-left: 0px;
+  }
+  .paragraph1{
+    padding-left: 0px;
+  }
+  .myul{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 513px){
+.btn3{
+  display: block;
+  margin: 0 auto;
+}
+.myrex2{
+  margin-left: 112px;
+}
+.myrex{
+  margin-left: 112px;
+}
+.col{
+box-sizing: revert;
+}
+}
+@media (max-width: 464px){
+
+  
 }
